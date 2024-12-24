@@ -1,5 +1,5 @@
 ## Hi there **what are you _doing_ here?**
-#If you found this you are weird. Kindly be ashamed of who you are as a person.
+If you found this you are weird. Kindly be ashamed of who you are as a person.
 
 <!--
 **ApfelAnanas/ApfelAnanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
